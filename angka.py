@@ -1,3 +1,14 @@
+# number +variable
+my_num = 5
+print(my_num)
+#sr stand for string and it can use liket this
+my_num = 5
+print(str(my_num) + " is my dislike number")
+
+#abs is use to know the absolute value
+my_num = -5
+print(abs(my_num))
+# aritmatematica
 print (3*5)
 print(81/9)
 print(2+3)
