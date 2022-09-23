@@ -12,3 +12,6 @@ print (kalimat.upper().islower())
 kalimat = "Baraebi Wordpress"
 print(len(kalimat))
 print(kalimat[0])
+print(kalimat[:4])
+print(kalimat.index("B")) #.index() is use to know the location of the string
+print(kalimat.replace("Baraebi", "Blogspot")) #.replace()is use to replace the string of variable
