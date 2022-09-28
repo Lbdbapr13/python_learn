@@ -24,5 +24,6 @@ print(months)
 months.remove("Hot")# it's use to remove variable in list
 print(months)
 
-
+lucky_numbers2= lucky_numbers.copy()
+print(lucky_numbers2)
 
